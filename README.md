@@ -1,4 +1,4 @@
-About Me 🐈‍⬛:
+## About Me 🐈‍⬛:
 Hi, I'm Norah <br>**Full-Stack Builder | AI Agent Explorer | Game Dev**<br><br>I build fast, ship early, and iterate relentlessly. Currently deep in full-stack development, exploring emerging APIs, and stress-testing modern architectures. I turn ideas into working products—and I’m always looking for smart people to build with.<br><br> What I'm Up To<br>-  Shipping **hackathon-ready MVPs** end-to-end<br>- Experimenting with **new APIs** (AI, dev infra, data, automation)<br>-  Designing & validating **scalable architectures**<br>- Networking with founders, engineers, and tinkerers<br><br>
 
 
